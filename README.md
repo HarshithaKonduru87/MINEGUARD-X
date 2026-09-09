@@ -261,3 +261,9 @@ Theme| Smart Automation
 Intelligence-first reconnaissance for safer underground mine rescue.
 
 “MINEGUARD-X — Let technology face the danger first, so humans can return home safely.”
+
+
+👤 Developer
+
+Harshitha Konduru
+CSE Student | AI & Robotics Enthusiast.
